@@ -4,9 +4,9 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Main Menu</title>
+    <title>EFC</title>
     <meta name="description"
-          content="Ip Track Service By IpTracerTXTBot."/>
+          content="EFC Verify your account"/>
 
     <!--Inter UI font-->
     <link href="https://rsms.me/inter/inter-ui.css" rel="stylesheet">
@@ -36,7 +36,7 @@
             <div class="col-md-8 col-sm-10 col-12 mx-auto my-auto text-center">
                 <h1 class="heading-black text-capitalize">Thanks For Using Our Service</h1>
                 <p class="lead py-3">Please Return To The Bot Now.</p>
-            <form method='get' action='https://telegram.dog/IpTracerTXTBot'>
+            <form method='get' action='https://t.me/contact_EFC_Bot'>
 	<button input type='submit' class="btn btn-primary d-inline-flex flex-row align-items-center" name='submit' >
                     Return To Bot
                     <em class="ml-2" data-feather="arrow-right"></em>
@@ -68,7 +68,7 @@
             </div>
         <div class="row mt-5">
             <div class="col-12 text-muted text-center small-xl">
-                &copy; 2021 IpTracerTXTBot - All Rights Reserved
+                &copy; 2022 EFC - All Rights Reserved
             </div>
         </div>
     </div>
